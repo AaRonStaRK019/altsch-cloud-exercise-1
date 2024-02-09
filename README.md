@@ -7,6 +7,6 @@ This is an exercise on Linux commands encompassing:
 * password expiry
 * ssh configurations.
 
-![Tasks are found in](./tasks.md)
-![Solutions are found in](./solution.md)
+![Tasks are found in tasks.md](./tasks.md)
+![Solutions are found in solution.md ](./solution.md)
 

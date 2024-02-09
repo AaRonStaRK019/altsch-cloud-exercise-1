@@ -37,4 +37,4 @@ you are going to push the required commands to your github repositories.
 
 Deadline: 10th Feb 2024
 
-![Solutions in](./project.md)
+![Solutions in solution.md](./solution.md)
