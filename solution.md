@@ -54,7 +54,7 @@
 ![no login shell](./img-screenshots/k.user-no-login-shell.png)
 
 
-12. `Disable password based authentication for ssh`
+12. `Disable password-based authentication for ssh`
 ![edit sshd_config file](./img-screenshots/l.disable-passwd-auth.png)    
 
 
