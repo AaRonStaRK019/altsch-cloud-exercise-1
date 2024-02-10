@@ -75,3 +75,7 @@
 13. `Disable root login for ssh`
 
 ![edit sshd_config file](./img-screenshots/m.disable-root-login.png)
+
+`restart ssh service`
+
+![service command](./img-screenshots/m(1).restart-ssh-service.png)
